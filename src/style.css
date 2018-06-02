@@ -1,0 +1,15 @@
+$mainColor: #8ce7b4;
+$fontSize: 1rem;
+.container {
+    color: #F00;
+    text-align: center;
+    margin-top: 50px;
+    button {
+        color: #F00;
+    }
+}
+button {
+    // background: $mainColor;
+    background: url(./500.jpeg);
+    font-size: calc(1.5 * $fontSize);
+}
